@@ -1,0 +1,12 @@
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    margin-top: 20px;
+
+    backdrop-filter: blur(40px);
+
+
+}

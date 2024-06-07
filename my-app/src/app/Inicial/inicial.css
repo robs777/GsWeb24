@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.fun {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('../../../img/img_inicial.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  flex-direction: column;
+
+
+}
+
+.tew {
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  background-color: #47b1f3;
+  width: 800px;
+}
+
+.container {
+  max-width: 1400px;
+  margin: auto;
+  padding: 20px;
+  margin-bottom: 10px;
+
+}
+
+table {
+  width: 100%;
+
+
+}
+
+th,
+td {
+  text-align: center;
+  padding: 8px;
+  border-bottom: 1px solid #ffffff;
+  background-color: rgb(255, 255, 255);
+}
+
+th {
+  background-color: #ffffff;
+}
+
+.funcB button {
+  background-color: #4ecef8;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 2px solid rgb(23, 130, 196);
+}
+
+.funcB button:hover {
+  background-color: #3dbada;
+}
+
+.funcB {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.formm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.field-group {
+  display: flex;
+  flex-direction: column;
+
+  width: 500px;
+  gap: 15px;
+
+}
