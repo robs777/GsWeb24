@@ -111,20 +111,3 @@
 
 
 
-@media (max-width:480px) {
-    .boc {
-        display: flex;
-        margin: auto;
-        align-items: center;
-        min-height: 100vh;
-        background: none;
-        max-width: 420px;
-        background: url('../../../img/img_cadastro.jpg') no-repeat;
-        background-position: 0 100px;
-        background-size: contain;
-        background-color: rgb(60, 193, 255);
-
-
-    }
-
-}
